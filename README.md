@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=160&section=header&text=Nelson%20Uzcategui&fontSize=52&fontColor=7DB9FF&fontAlignY=39&desc=Backend%20Developer%20%20%7C%20%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20FastAPI&descAlignY=68&descSize=16&descColor=8FAFD4" width="100%"/>
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
+<img src="divider.svg" width="100%" />
 
 ### Languages
 
@@ -20,7 +21,8 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,vscode" alt="Bases de datos y herramientas">
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+<img src="divider.svg" width="100%" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nefux&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=ff2d78&icon_color=39ff88&text_color=c9d1d9&ring_color=00d8ff" />
 
