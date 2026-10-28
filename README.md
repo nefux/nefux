@@ -1,7 +1,5 @@
 <div align="center">
-
-# ¡Hola! Soy Nelson 👋
-
+  
 ### Backend Developer | Python • Django • FastAPI
 
 Construyo soluciones de software, automatizo procesos y trabajo con bases de datos para convertir problemas reales en aplicaciones eficientes.
@@ -38,9 +36,9 @@ Construyo soluciones de software, automatizo procesos y trabajo con bases de dat
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nefux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nefux&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=ff2d78&icon_color=39ff88&text_color=c9d1d9&ring_color=00d8ff" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefux&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefux&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9" />
 
 </div>
 
