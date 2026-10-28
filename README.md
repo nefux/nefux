@@ -1,8 +1,6 @@
 <div align="center">
-  
-### Backend Developer | Python • Django • FastAPI
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=160&section=header&text=Nelson%20Uzcategui&fontSize=52&fontColor=7DB9FF&fontAlignY=39&desc=Backend%20Developer%20%20%7C%20%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20FastAPI&descAlignY=68&descSize=16&descColor=8FAFD4" width="100%"/>
 
 ## 🛠️ Technologies & Tools
 
