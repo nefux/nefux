@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="1200" height="30">
+  <defs>
+    <linearGradient id="ln" x1="0" x2="1">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#2563EB"/>
+      <stop offset=".5" stop-color="#38BDF8"/>
+      <stop offset=".7" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="gl" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="c">
+      <rect x="0" y="13" width="1200" height="4"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .sh {
+      animation: sh 3.5s linear infinite;
+    }
+
+    @keyframes sh {
+      from {
+        transform: translateX(-200px);
+      }
+      to {
+        transform: translateX(1200px);
+      }
+    }
+
+    .code {
+      font-family: Consolas, "Courier New", monospace;
+      font-size: 27px;
+      font-weight: bold;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+  </style>
+
+  <!-- Líneas degradadas -->
+  <rect x="0" y="14" width="560" height="2" fill="url(#ln)"/>
+  <rect x="640" y="14" width="560" height="2" fill="url(#ln)"/>
+
+  <!-- Brillo animado -->
+  <g clip-path="url(#c)">
+    <rect class="sh" x="0" y="13" width="160" height="4" fill="url(#gl)"/>
+  </g>
+
+  <!-- Símbolo de programación -->
+  <text
+    class="code"
+    x="613"
+    y="15"
+    fill="#2563EB"
+  >&lt;/&gt;</text>
+</svg>
