@@ -17,15 +17,6 @@ Construyo soluciones de software, automatizo procesos y trabajo con bases de dat
 
 ---
 
-## 👨‍💻 Sobre mí
-
-- 🐍 Desarrollo aplicaciones backend utilizando Python.
-- ⚙️ Trabajo con Django, FastAPI y SQLAlchemy.
-- 🗄️ Me interesa el diseño, la optimización y la migración de bases de datos.
-- 🔄 Disfruto automatizando procesos y mejorando sistemas existentes.
-- 📚 Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas.
-- 🚀 Mi objetivo es construir software mantenible, eficiente y escalable.
-
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes
@@ -43,50 +34,13 @@ Construyo soluciones de software, automatizo procesos y trabajo con bases de dat
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,vscode" alt="Bases de datos y herramientas">
 </p>
 
-### También trabajo con
-
-- SQLAlchemy
-- Oracle Database
-- REST APIs
-- Bootstrap
-- Linux y Docker
-
-## 📌 Proyectos destacados
-
-🔹 **PeopleCare**  
-Aplicación orientada a la gestión de personas y evaluaciones, con Django e integración con servicios API.
-
-🔹 **Stipendia API**  
-Servicios backend desarrollados con FastAPI para conectar aplicaciones con bases de datos y sistemas existentes.
-
-🔹 **Stipendia Alchemy**  
-Proyecto de procesamiento de información de nómina y generación de documentos PDF utilizando Python, SQLAlchemy y ReportLab.
-
-> Estos proyectos representan áreas de trabajo e intereses. Añade los enlaces a los repositorios públicos que puedas compartir.
-
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nefux&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados">
-
-</div>
-
-## 🎯 Actualmente
-
-- Mejorando mis habilidades de arquitectura backend.
-- Profundizando en SQLAlchemy y el acceso eficiente a bases de datos.
-- Explorando nuevas herramientas para desarrollar software de calidad.
-
----
-
-<div align="center">
-
-### 💻 Código, aprendizaje y mejora continua.
-
-*Siempre hay algo nuevo que construir.*
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefux&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados">
 
 </div>
 
