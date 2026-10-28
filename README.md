@@ -2,22 +2,12 @@
   
 ### Backend Developer | Python • Django • FastAPI
 
-Construyo soluciones de software, automatizo procesos y trabajo con bases de datos para convertir problemas reales en aplicaciones eficientes.
-
-<br>
-
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
-<a href="https://www.sqlalchemy.org/"><img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"></a>
-
-</div>
-
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
-### Lenguajes
+### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Lenguajes de programación">
 </p>
@@ -27,12 +17,12 @@ Construyo soluciones de software, automatizo procesos y trabajo con bases de dat
   <img src="https://skillicons.dev/icons?i=django,fastapi" alt="Frameworks backend">
 </p>
 
-### Bases de datos y herramientas
+### Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,vscode" alt="Bases de datos y herramientas">
 </p>
 
-## 📊 Mi actividad en GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
