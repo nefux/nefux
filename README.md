@@ -18,7 +18,7 @@
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,vscode" alt="Bases de datos y herramientas">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github" alt="Bases de datos y herramientas">
 </p>
 
 ### 📊 GitHub Stats
