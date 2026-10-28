@@ -24,8 +24,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nefux&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=ff2d78&icon_color=39ff88&text_color=c9d1d9&ring_color=00d8ff" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nefux&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d8ff&text_color=c9d1d9" />
